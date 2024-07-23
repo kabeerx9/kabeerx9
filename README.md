@@ -24,12 +24,14 @@
 
 ## 💼 Projects
 
-### Interactive Messaging Platform | [https://interactive-messaging.vercel.app/]
+### Interactive Messaging Platform 
+[![Project](https://img.shields.io/badge/-Project-FF4088?style=flat-square&logo=hack-the-box&logoColor=white)](https://interactive-messaging.vercel.app/)
 - Real-time communication using Convex
 - User authentication with Clerk
 - Responsive UI with Next.js 14, TypeScript, and Tailwind CSS
 
-### React Explorer | [https://www.react-explorer.in/]
+### React Explorer 
+[![Project](https://img.shields.io/badge/-Project-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://www.react-explorer.in/)
 - Advanced React concepts and third-party packages exploration
 - Practice interview challenges and React techniques implementation
 
