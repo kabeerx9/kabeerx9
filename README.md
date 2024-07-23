@@ -51,4 +51,4 @@ Thapar Institute of Engineering and Technology, Patiala, India (2019-2023)
 
 ![Kabeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabeerx9&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabeerx9&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabeerx9&layout=compact&hide=html,css&langs_count=6&theme=radical)
