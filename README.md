@@ -29,7 +29,7 @@
 - User authentication with Clerk
 - Responsive UI with Next.js 14, TypeScript, and Tailwind CSS
 
-### React Explorer | [Link]
+### React Explorer | [https://www.react-explorer.in/]
 - Advanced React concepts and third-party packages exploration
 - Practice interview challenges and React techniques implementation
 
