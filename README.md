@@ -24,7 +24,7 @@
 
 ## 💼 Projects
 
-### Interactive Messaging Platform | [Link]
+### Interactive Messaging Platform | [https://interactive-messaging.vercel.app/]
 - Real-time communication using Convex
 - User authentication with Clerk
 - Responsive UI with Next.js 14, TypeScript, and Tailwind CSS
