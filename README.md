@@ -1,54 +1,49 @@
+<div align="center">
+
 # Kabeer Joshi
 
-## 🚀 Full Stack Developer
+### Full-stack developer building thoughtful web and mobile products
 
-🌍 Based in Dehradun, Uttarakhand, India
+Based in Dehradun, India. I work across product engineering, frontend
+architecture, real-time systems, and backend APIs.
 
-## 🛠 Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kabeerjoshi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabeerjoshi)
+[![Email](https://img.shields.io/badge/Email-kabeer786joshi%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kabeer786joshi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-kabeerx9-181717?style=flat&logo=github&logoColor=white)](https://github.com/kabeerx9)
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+</div>
 
-### Backend
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+## What I work on
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+- Full-stack applications with TypeScript, React, Next.js, and Node.js
+- Mobile experiences with React Native and Expo
+- Real-time features using WebSockets, Socket.IO, and Convex
+- Authentication, data-heavy interfaces, and maintainable application architecture
 
-## 💼 Projects
+## Selected work
 
-### Interactive Messaging Platform 
-[![Project](https://img.shields.io/badge/-Project-FF4088?style=flat-square&logo=hack-the-box&logoColor=white)](https://interactive-messaging.vercel.app/)
-- Real-time communication using Convex
-- User authentication with Clerk
-- Responsive UI with Next.js 14, TypeScript, and Tailwind CSS
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Realtime Expo](https://github.com/kabeerx9/realtime-expo) | A real-time mobile application structured around decoupled networking, state, and UI layers. | Expo, React Native, Socket.IO, Zustand |
+| [Interactive Messaging](https://github.com/kabeerx9/chat-app) | A responsive messaging platform with authentication, conversations, friend requests, and live data. | Next.js, TypeScript, Convex, Clerk |
+| [React Explorer](https://github.com/kabeerx9/react-explorer) | A growing collection of practical React patterns, UI examples, and implementation exercises. | Next.js, React, TypeScript, Radix UI |
 
-### React Explorer 
-[![Project](https://img.shields.io/badge/-Project-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://www.react-explorer.in/)
-- Advanced React concepts and third-party packages exploration
-- Practice interview challenges and React techniques implementation
+## Toolbox
 
-## 🎓 Education
+**Languages:** TypeScript, JavaScript, Python, SQL
 
-**B.Tech in Computer Science Engineering**
-Thapar Institute of Engineering and Technology, Patiala, India (2019-2023)
+**Frontend:** React, Next.js, React Native, Expo, Tailwind CSS, Redux, Zustand
 
-## 📫 Connect
+**Backend & data:** Node.js, Django, Prisma, Convex, REST APIs, WebSockets
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kabeer786joshi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabeer-joshi-7173061aa)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kabeerx9)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kabeerjoshi)
+**Infrastructure:** Docker, GitHub Actions, DigitalOcean, Git
 
-## 📊 GitHub Stats
+## Background
 
-![Kabeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabeerx9&show_icons=true&theme=radical)
+I earned a B.Tech in Computer Science Engineering from Thapar Institute of
+Engineering and Technology in 2023.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabeerx9&layout=compact&hide=html,css&langs_count=6&theme=radical)
+I am interested in collaborating on products where strong engineering and a
+clear user experience matter. The best way to reach me is through
+[LinkedIn](https://www.linkedin.com/in/kabeerjoshi) or
+[email](mailto:kabeer786joshi@gmail.com).
