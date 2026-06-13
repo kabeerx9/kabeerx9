@@ -24,46 +24,34 @@ ship them.
 
 ## Professional work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="./assets/goreeva-case-study.svg" width="100%" alt="Goreeva education platform case study" />
 
-### Goreeva Education Platform
+<details>
+<summary><strong>Engineering highlights</strong></summary>
+<br />
 
-Contributing across a multi-product education ecosystem for students, teachers,
-parents, and school administrators.
+- Built across student, teacher, parent, and school-administration experiences
+- Delivered attendance, report cards, assignments, fees, messaging, calendars, and notifications
+- Implemented persistent caching, localization, file workflows, payments, and API integrations
+- Worked across React Native applications, an Expo app, a React dashboard, and Django services
 
-**Selected work**
+</details>
 
-- Student and teacher React Native applications
-- Parent app built with Expo and Expo Router
-- School operations dashboard with role-based workflows
-- Attendance, report cards, assignments, fees, messaging, and notifications
-- Persistent caching, localization, file handling, payments, and API integrations
+<br />
 
-`React Native` `Expo` `React` `TypeScript` `TanStack Query` `Django`
+<img src="./assets/mobile-platform-case-study.svg" width="100%" alt="Anonymized real-time mobile platform case study" />
 
-</td>
-<td width="50%" valign="top">
+<details>
+<summary><strong>Engineering highlights</strong></summary>
+<br />
 
-### Real-time Fantasy Sports App
+- Took the mobile product from an initial Expo setup to production-ready iOS and Android releases
+- Built live drafts, lineups, tournaments, brackets, chat, scoring, and synchronized real-time state
+- Integrated payments, identity verification, geolocation rules, and responsible-play controls
+- Added push notifications, deep links, crash monitoring, automated tests, and EAS delivery workflows
+- Established reusable feature boundaries, a shared design system, and documented reliability practices
 
-Built a production mobile application from scratch, owning its architecture and
-core product flows from initial setup through release engineering.
-
-**Selected work**
-
-- Live drafts, lineups, tournaments, brackets, chat, and scoring
-- Real-time state synchronization and resilient client-side data flows
-- Payments, identity verification, geolocation rules, and responsible-play controls
-- Push notifications, deep links, crash monitoring, testing, and EAS releases
-- Shared design system and reusable feature architecture
-
-`Expo` `React Native` `TypeScript` `Ably` `Zustand` `TanStack Query`
-
-</td>
-</tr>
-</table>
+</details>
 
 ## Public projects
 
