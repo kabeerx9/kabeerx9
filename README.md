@@ -23,12 +23,21 @@ push notifications, deep links, crash reporting, and EAS build/release pipelines
 
 ## Projects
 
+**[hints.city](https://github.com/kabeerx9/Hints-City)** — City discovery
+product I'm actively building: an Expo app, a React web app, and a Fastify API
+in one monorepo, with request and response shapes defined once as Zod contracts
+and shared by all three. Places data comes from Google under a per-SKU usage
+meter, so the expensive call tiers are tracked and capped rather than discovered
+on the invoice, and place photos are served through a signed proxy instead of
+exposing keys to the client. Prisma migrations run against a live Railway
+database.
+
 **[Cancer-Compass](https://github.com/kabeerx9/Cancer-Compass)** — A treatment
 companion for people going through chemotherapy: medications, appointments,
 document storage, and day templates that generate a patient's task list for each
 day of a cycle. An Expo app and a Vite dashboard sit on an Express + Prisma API,
 with entity and response types shared from one package so all three stay in
-sync. TypeScript, PostgreSQL.
+sync.
 
 **[Project-Sessions](https://github.com/kabeerx9/Project-Sessions)** — A native
 macOS app that restores a development workspace in one action: browser profile
