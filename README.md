@@ -23,16 +23,29 @@ push notifications, deep links, crash reporting, and EAS build/release pipelines
 
 ## Projects
 
-**[realtime-expo](https://github.com/kabeerx9/realtime-expo)** — Full-stack
-real-time mobile app with networking, state, and UI kept as separate layers.
-Expo, Socket.IO, Zustand.
+**[Cancer-Compass](https://github.com/kabeerx9/Cancer-Compass)** — A treatment
+companion for people going through chemotherapy: medications, appointments,
+document storage, and day templates that generate a patient's task list for each
+day of a cycle. An Expo app and a Vite dashboard sit on an Express + Prisma API,
+with entity and response types shared from one package so all three stay in
+sync. TypeScript, PostgreSQL.
 
-**[chat-app](https://github.com/kabeerx9/chat-app)** — Messaging platform with
-auth, conversations, friend requests, and live updates. Next.js, Convex, Clerk.
+**[Project-Sessions](https://github.com/kabeerx9/Project-Sessions)** — A native
+macOS app that restores a development workspace in one action: browser profile
+and tabs, project folder, editor, and terminal commands. It tracks the processes
+it spawns and reports them as running, exited, or failed, so a session can be
+torn down as cleanly as it was started. Swift.
 
-**[react-explorer](https://github.com/kabeerx9/react-explorer)** — Working
-collection of React patterns and interface implementations. React, Next.js,
-Radix UI.
+**[Tattvix](https://github.com/kabeerx9/Tattvix)** — A polyglot monorepo: React
+and TanStack Router on the web, an Expo development build on native, and a
+Django REST API behind both, sharing typed contracts and validated environment
+config. Turborepo and pnpm drive the TypeScript side, uv the Python side.
+
+**[fullstack-monorepo-starter](https://github.com/kabeerx9/fullstack-monorepo-starter)**
+— The GitHub template I start projects from. React 19, Expo, and Fastify with
+Clerk authentication wired across all three, Prisma and Postgres, a shared
+shadcn/ui package, and an `init:project` codemod that rewrites the workspace
+scope, Expo identifiers, and import specifiers in a single pass.
 
 ## Tools
 
