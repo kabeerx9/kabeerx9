@@ -1,10 +1,10 @@
 ### Kabeer Joshi
 
-Full-stack developer. I build product features end to end: the mobile app, the API, and the services behind them.
+Full-stack developer. Mobile apps and the backends behind them.
 
-**Now** · Building [Shotgun Fantasy](https://shotgunfantasysports.com). I own the React Native/Expo app and ship features across the stack, from realtime drafts in the app to Django APIs and Go services.
+**Now** · Building [Shotgun Fantasy](https://shotgunfantasysports.com). React Native, Django, Go.
 
-**Before** · Goreeva, 2023–2025. Mobile apps and a React dashboard for school operations.
+**Before** · Goreeva, 2023–2025. School apps and dashboards.
 
 | | |
 |---|---|
